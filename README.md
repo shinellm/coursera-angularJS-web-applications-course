@@ -1,5 +1,3 @@
-# Click the following link to see the deployed projects: https://shinellm.github.io/coursera-angularJS-web-applications-course/
-
 ## Welcome to Coursera's Single Page Web Applications with AngularJS
 
 This page is meant to keep track of my individual assignments as I progress through the course: [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs/)
