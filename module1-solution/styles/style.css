@@ -1,0 +1,13 @@
+/* Return Message CSS */
+.message { 
+    font-size: 1.3em; 
+    font-weight: bold; 
+}
+.message.success {
+    color: green;
+    border: 1px solid green;
+}
+.message.failure {
+    color: red;
+    border: 1px solid red;
+}
