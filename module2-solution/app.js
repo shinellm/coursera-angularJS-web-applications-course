@@ -49,9 +49,6 @@
                 };
                 boughtItems.push(item);
             }
-            else {
-                throw new Error("Max items (" + maxItems + ") reached.");
-            }
         };
 
         service.getItemsToBuy = function() {
